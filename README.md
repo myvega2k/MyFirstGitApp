@@ -5,3 +5,4 @@
 * git push
 * git clone
 * git pull
+* Contributor가 수정한 부분입니다.
