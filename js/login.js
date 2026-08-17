@@ -5,7 +5,7 @@ function login(username, password) {
     }else if(username && password) {
         console.log(username + ' ' + password);
     }else {
-        console.log('>>>> login fail');
+        console.log('[ERROR] login failed');s
     }
 };
 
