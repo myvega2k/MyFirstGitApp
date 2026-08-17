@@ -11,3 +11,7 @@ function login(username, password) {
 function logout() {
     console.log('로그아웃');
 }
+
+function getUserInfo() {
+    return "사용자 정보";
+}
