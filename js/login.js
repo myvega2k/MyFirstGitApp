@@ -1,11 +1,10 @@
-//index.html 을 위한 js file
 function login(username, password) {
     if(username){
         console.log(username);
     }else if(username && password) {
         console.log(username + ' ' + password);
     }else {
-        console.log('>>>> login fail');
+        console.log('>>>> 로그인 실패했습니다');
     }
 };
 
